@@ -20,7 +20,7 @@ name="Hi 👋"
 description="""
     My name is Ivan, a passionate and Skilled future DevOps Engineer with knowledge in infrastructure, provisioning, automation and monitoring. I have completed and been certified by AWS, Hashicorp and LPI. Have hands on pojects working with tools such as Terraform, AWS Console, Python, Linux and Git as well as maintaining best practices using the cloud. I enjoy meeting new people and see new perspectives, i like discussing new technologies and other things, for me, there is a lot to learn, a lot of problems to be solved, and much more to build on, so far and for what I've got, I'm very grateful.
 """""
-email="ivanlara150@gmail.com"
+email="ivan.corporate@hotmail.com"
 st.set_page_config(page_title=page_title, page_icon=page_icon, layout=layout)
 css_file="styles/main.css"
 with open(css_file) as f:
