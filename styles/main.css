@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
+
+* {
+    font-family: 'Readex Pro', sans-serif;
+}
+
+
+.social-buttons {
+    margin-top: -60px; /* Ajusta hacia arriba */
+    margin-bottom: 20px; /* Espacio debajo si es necesario */
+    display: flex;
+    justify-content: space-around; /* Distribuye los botones uniformemente */
+}
+
+
+.image-container {
+    margin-top: 20px; /* Agrega espacio entre la imagen y los botones */
+}
+
+
+
+/* Estilo para enlaces */
+a {
+    text-decoration: none !important;
+    color: #0096FF !important;
+    font-weight: 500;
+}
+
+a:hover {
+    color: #d33682 !important;
+    text-decoration: none !important;
+}
+
+/* Quitar viñetas de listas */
+ul {
+    list-style-type: none;
+}
+
+/* Personalizar espaciado de líneas horizontales */
+hr {
+    margin-top: 0px;
+    margin-bottom: 5%;
+}
+
+/* Ocultar elementos específicos */
+#MainMenu {
+    visibility: hidden;
+}
+
+footer {
+    visibility: hidden;
+}
+
+header{visibility: hidden;}
