@@ -122,7 +122,12 @@ st.write('---')
 st.write(
     """
 -  🐍 Programming language & Framework : <i class="fab fa-python" style="font-size:20px;"></i> Python, <i class="fab fa-react" style="font-size:20px;"></i> Streamlit
+-  🐧 Terminal Knowledge & Operating System : <i class="fas fa-tools" style="font-size:20px;"></i> Vim / Nano, <i class="fa-brands fa-github"></i> Bash, <i class="fab fa-github-square"></i>Powershell, <i class="fa-brands fa-watchman-monitoring"></i> Prometheus & Grafana
 -  ☁️ Cloud Provider : <i class="fab fa-aws" style="font-size:20px;"></i> Amazon Web Services
+-  🔐 Secret Management : <i class="fas fa-tools" style="font-size:20px;"></i> Hashicorp Vault, <i class="fa-brands fa-github"></i> AWS Secrets Manager, <i class="fab fa-github-square"></i>GithubActions, <i class="fa-brands fa-watchman-monitoring"></i> Prometheus & Grafana
+-  ⚙️ Container & Orchestration : <i class="fas fa-tools" style="font-size:20px;"></i>Docker , <i class="fa-brands fa-github"></i> Kubernetes
+-  ⚙️ Version Control System & CI/CD : <i class="fas fa-tools" style="font-size:20px;"></i> Terraform, <i class="fa-brands fa-github"></i> Github, <i class="fab fa-github-square"></i>GithubActions, <i class="fa-brands fa-watchman-monitoring"></i> Prometheus & Grafana
+-  📈 Logs Management & Infrastructure Monitoring : <i class="fas fa-tools" style="font-size:20px;"></i> Splunk, <i class="fa-brands fa-github"></i> PRTG, <i class="fab fa-github-square"></i>Grafana, <i class="fa-brands fa-watchman-monitoring"></i> Grafana
 -  ⚙️ DevOps Tools : <i class="fas fa-tools" style="font-size:20px;"></i> Terraform, <i class="fa-brands fa-github"></i> Github, <i class="fab fa-github-square"></i>GithubActions, <i class="fa-brands fa-watchman-monitoring"></i> Prometheus & Grafana
 -  🏆 Certifications : 
     <ul>
