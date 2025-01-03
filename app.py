@@ -33,14 +33,8 @@ st.markdown(
 )
 
 proyectos = {
-    "🏆 Lets Deploy a static website using S3 Bucket, CloudFront, Amplify and let's add a fail routing policy":
-    "https://www.youtube.com",
-     "🏆 How I beated the Learn to Cloud Challenge":
-    "https://www.google.com.py",
-     "🏆 Let's use Amazon Connect to create a contact center":
-    "https://www.google.com.py",
-     "🏆 Create a chatbot using AWS":
-    "https://www.google.com.py"
+    "🏆 Lets Deploy a static website using LightSail, CloudFront, Route53 and let's add a fail routing policy":
+    "https://www.youtube.com"
 
 }
 
@@ -121,14 +115,14 @@ st.subheader('Tech Skills & Certifications')
 st.write('---')
 st.write(
     """
--  🐍 Programming language & Framework : <i class="fab fa-python" style="font-size:20px;"></i> Python, <i class="fab fa-react" style="font-size:20px;"></i> Streamlit
--  🐧 Terminal Knowledge & Operating System : <i class="fas fa-tools" style="font-size:20px;"></i> Vim / Nano, <i class="fa-brands fa-github"></i> Bash, <i class="fab fa-github-square"></i>Ubuntu, <i class="fa-brands fa-watchman-monitoring"></i> Fedora
--  ☁️ Cloud Provider : <i class="fab fa-aws" style="font-size:20px;"></i> Amazon Web Services, <i class="fab fa-aws" style="font-size:20px;"></i> Digital Ocean
--  🔐 Secrets Management : <i class="fas fa-tools" style="font-size:20px;"></i> Hashicorp Vault, <i class="fa-brands fa-github"></i> AWS Secrets Manager
--  🐳 Container & Orchestration : <i class="fas fa-tools" style="font-size:20px;"></i>Docker , <i class="fa-brands fa-github"></i> Kubernetes
--  ⚙️ Version Control System & CI/CD : <i class="fa-brands fa-github"></i> Github, <i class="fab fa-github-square"></i>GithubActions
--  📈 Logs Management & Infrastructure Monitoring : <i class="fas fa-tools" style="font-size:20px;"></i> Splunk, <i class="fa-brands fa-github"></i> PRTG, <i class="fab fa-github-square"></i>Grafana, <i class="fa-brands fa-watchman-monitoring"></i> Grafana
--  ⚙️ DevOps Tools : <i class="fas fa-tools" style="font-size:20px;"></i> Terraform, <i class="fa-brands fa-github"></i> Github, <i class="fab fa-github-square"></i>GithubActions, <i class="fa-brands fa-watchman-monitoring"></i> Prometheus & Grafana
+-  🐍 Programming language & Framework : Python, Streamlit
+-  🐧 Terminal Knowledge & Operating System : Vim / Nano,Bash, Ubuntu
+-  ☁️ Cloud Provider : Amazon Web Services, Digital Ocean
+-  🔐 Secrets Management : Hashicorp Vault, AWS Secrets Manager
+-  🐳 Container & Orchestration : Docker , Kubernetes
+-  🛂 Version Control System & CI/CD : Github, GithubActions
+-  📈 Logs Management & Infrastructure Monitoring : Splunk, PRTG, Grafana, Prometheus
+-  ⚙️ IaC : Terraform
 -  🏆 Certifications : 
     <ul>
         <li><i class="fas fa-certificate" style="color:gold;"></i> <a href="https://www.credly.com/badges/8dc744b5-dd71-4ed8-8a78-5a04c0aa9326/linked_in_profile" target="_blank" style="text-decoration:none; color:#0073e6;">AWS Solutions Architect - Associate</a></li>
